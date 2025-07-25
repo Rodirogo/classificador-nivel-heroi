@@ -26,11 +26,3 @@ Criar uma estrutura de decisão que classifique o nível de um herói com base e
 O Herói de nome Artemis está no nível de Platina
 ```
 
-## 📂 Como executar
-1. Clone este repositório
-2. Abra o arquivo `classificador-nivel-heroi.js` em seu editor
-3. Rode o arquivo com Node.js ou outro ambiente que aceite JavaScript
-
----
-
-Feito com 💜 para a DIO 🚀
